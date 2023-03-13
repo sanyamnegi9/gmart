@@ -1,3 +1,10 @@
+@import url(Navbar.scss);
+
+*{
+  margin: 0;
+  font-family: 'Urbanist', sans-serif;
+}
+
 .App {
   text-align: center;
 }
